@@ -5,7 +5,6 @@ C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\WebApi.de
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\WebApi.dll
-C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\ref\WebApi.dll
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\WebApi.pdb
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -19,7 +18,6 @@ C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\WebApi.cs
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
-C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
@@ -38,3 +36,5 @@ C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\Microsoft
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\emrec\Desktop\çalışmalar\BookStore\WebApi\obj\Debug\net5.0\refint\WebApi.dll
