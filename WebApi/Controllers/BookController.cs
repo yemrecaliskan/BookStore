@@ -5,16 +5,16 @@ using AutoMapper;
 using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
-using WebApi.BookOperations.CreateBook;
-using WebApi.BookOperations.DeleteBook;
-using WebApi.BookOperations.GetBookDetail;
-using WebApi.BookOperations.GetBooks;
-using WebApi.BookOperations.UpdateBook;
+using WebApi.Application.BookOperations.Commands.CreateBook;
+using WebApi.Application.BookOperations.Commands.DeleteBook;
+using WebApi.Application.BookOperations.Queries.GetBookDetail;
+using WebApi.Application.BookOperations.Queries.GetBooks;
+using WebApi.Application.BookOperations.Commands.UpdateBook;
 using WebApi.DBOperations;
-using static WebApi.BookOperations.CreateBook.CreateBookCommand;
-using static WebApi.BookOperations.UpdateBook.UpdateBookCommand;
+using static WebApi.Application.BookOperations.Commands.CreateBook.CreateBookCommand;
+using static WebApi.Application.BookOperations.Commands.UpdateBook.UpdateBookCommand;
 
-namespace WebApi.AddControllers
+namespace WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]s")]
@@ -49,13 +49,6 @@ namespace WebApi.AddControllers
             return Ok(result);
         }
 
-        // [HttpGet]
-        // public Book Get([FromQuery] string id)
-        // {
-        //     var book = BookList.Where(book => book.Id == Convert.ToInt32(id)).SingleOrDefault();
-        //     return book;
-        // }
-
         //Post
         [HttpPost]
         public IActionResult AddBook([FromBody] CreateBookModel newBook)
@@ -66,11 +59,6 @@ namespace WebApi.AddControllers
             validator.ValidateAndThrow(command);
             command.Handle();
 
-            // if(!result.IsValid)
-            //     foreach (var item in result.Errors)
-            //         Console.WriteLine("Özellik " + item.PropertyName + " - Error Message :" + item.ErrorMessage);
-            // else
-            //     command.Handle();
             return Ok();
         }
 
