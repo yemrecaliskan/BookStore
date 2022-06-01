@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj": {}
+    "c:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj": {
+    "c:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "c:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj",
+        "projectPath": "c:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\emrec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\obj\\",
+        "outputPath": "c:\\Users\\emrec\\Desktop\\çalışmalar\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emrec\\AppData\\Roaming\\NuGet\\NuGet.Config",
